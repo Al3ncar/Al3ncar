@@ -13,7 +13,7 @@
 
 <div style="display: flex">
   <a href="https://github.com/Al3ncar">
-  <img src="https://github-readme-stats.vercel.app/api?username=Al3ncar&show_icons=true&theme=github_dark&include_all_commits=true&count_privado=true"  height="150">
+  <img src="https://github-readme-stats.vercel.app/apiusername=Al3ncar&show_icons=true&theme=github_dark&include_all_commits=true&count_privado=true"  height="150">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3ncar&layout=compact&langs_count=18&theme=github_dark"/> 
 </div>
   
