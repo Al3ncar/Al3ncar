@@ -1,7 +1,4 @@
-<h1>✨ Hello, I'm Igor Alencar ✨</h1>
-
-
-  
+<h1>✨ Hello, I'm Igor Alencar ✨</h1>  
 <div>
     
     - 🤖 I’m currently working with front-end.
@@ -10,13 +7,11 @@
     - 🙋🏻‍♂️ Pronouns: Ele/Dele.
       
 </div>
-
 <div style="display: flex">
   <a href="https://github.com/Al3ncar">
   <img src="https://github-readme-stats.vercel.app/api?username=Al3ncar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"  height="150em">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3ncar&layout=compact&langs_count=18&theme=github_dark"/> 
 </div>
-  
 <div style="display: flex">
     <img align="center" alt="Igor-html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
     <img align="center" alt="Igor-css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
@@ -30,14 +25,31 @@
 ##
 
 <div> 
-  
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
-  <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="mensager">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
- 
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+  </a>
+  <a href="https://codepen.io/Bastos-Alencar" target="_blank">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen">
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin">
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
+  </a>
+  <a href="https://www.instagram.com/alb.zl_03/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+  </a>
+  <a href="https://codesandbox.io/u/alencar29htcss" target="_blank">
+    <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=1000096400" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook">
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
+  </a>
+
    ![Snake animation](https://github.com/Al3ncar/Al3ncar/blob/output/github-contribution-grid-snake.svg)
   
 </div>
