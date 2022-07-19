@@ -4,25 +4,28 @@
   
 <div>
     
-    - 🤖  I’m currently working with html5, css3.
-    - 🧠 I’m learning Html5 and Css3.
-    - 💻 How to reach me: alencar29htcss@gmail.com.
+    - 🤖  I’m currently working with front-end.
+    - 🧠 I’m learning ReactJs, Js Vanilla, API's, Gatsby.
+    - 💻 How to reach me: alencar29htcss@gmail.com
     - 🙋🏻‍♂️ Pronouns: Ele/Dele.
       
 </div>
 
 <div style="display: flex">
-  
   <a href="https://github.com/Al3ncar">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Al3ncar&show_icons=true&theme=github_dark&include_all_commits=true&count_privado=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3ncar&layout=compact&langs_count=18&theme=github_dark"/>
-    
+  <img src = "://github-readme-stats.vercel.app/api? username=Al3ncar&show_icons=true&theme=github_dark&include_all_commits=true&count_privado=true"  height="150">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3ncar&layout=compact&langs_count=18&theme=github_dark"/> 
 </div>
   
 <div style="display: flex">
   
-  <img align="center" alt="Igor-html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Igor-css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img align="center" alt="Igor-html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img align="center" alt="Igor-css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="Igor-css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img align="center" alt="Igor-css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="Igor-css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" />
+    <img align="center" alt="Igor-css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+   
   
 </div>
   
