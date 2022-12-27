@@ -1,9 +1,9 @@
 <h1 align="center">✨ Hello, I'm Igor Alencar ✨</h1>  
 <div align="center">
     
-    - 🤖 I’m currently working with front-end.
+    - 🤖 i'm a front-end web developer
     - 🧠 I’m learning ReactJs, Js Vanilla, API's, Gatsby.
-    - 💻 How to reach me: alencar29htcss@gmail.com
+    - 💻 How to reach me: https://www.linkedin.com/in/igoralencar/
     - 🙋🏻‍♂️ Pronouns: Ele/Dele.
       
 </div>
