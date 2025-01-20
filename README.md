@@ -2,7 +2,7 @@
 <div align="center">
     
     - 🤖 i'm a front-end web developer
-    - 🧠 I’m learning ReactJs, Js Vanilla, API's, Gatsby.
+    - 🧠 I’m learning Node.js, Python and TypeScript
     - 💻 How to reach me: https://www.linkedin.com/in/igoralencar/
     - 🙋🏻‍♂️ Pronouns: Ele/Dele.
       
