@@ -1,4 +1,6 @@
-<h1 align="center">✨ Hello, I'm Igor Alencar ✨</h1>  
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=40&pause=1000&color=F4F700&width=435&lines=Hello%2C+I+am+Igor+Alencar" alt="Typing SVG" /></a>
+</h1>  
 <div align="center">
     
     - 🤖 i'm a front-end web developer
@@ -22,7 +24,6 @@
     <img align="center" alt="Igor-css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
     <img align="center" alt="Igor-js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
     <img align="center" alt="Igor-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img align="center" alt="Igor-gatsby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg"/>
     <img align="center" alt="Igor-gituhb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
     <img align="center" alt="Igor-gituhb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
