@@ -1,24 +1,23 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=36&pause=1000&color=005AFF&vCenter=true&width=450&height=63&lines=Hello%2C+I'm+Igor+Alencar%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%91%BE+I+am+Web+Developer+%F0%9F%91%BE" alt="Typing SVG" /></a>
-</h1>
+![GIF Al3ncar](./files/banner-github.gif)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+## 🌃 Objetivo
 
-<div align="center">
+Tenho cerca de 2 anos de experiência em tecnologia, sendo 1 ano e 4 meses focados em JavaScript e TypeScript com React, além de experiência em aplicações Vue. Busco grandes desafios no desenvolvimento para criar soluções inovadoras que facilitem a vida do cliente e da empresa.
 
-    - 🤖 i'm a front-end web developer
-    - 🧠 I’m learning Node.js, Python and TypeScript
-    - 💻 How to reach me: https://www.linkedin.com/in/igoralencar/
-    - 🙋🏻‍♂️ Pronouns: Ele/Dele.
 
-</div>
+## 💼 Perfil
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="150" align="right">
+
+ - 🤖 Eu sou um Desenvolvedor Front-End
+ - 🧠 Estou aprendendo Node.js, Python and TypeScript
+ - 💻 <a href="https://www.linkedin.com/in/igoralencar/">LinkedIn</a>
+
+
 <div align="center">
   <a href="https://github.com/Al3ncar">
   <img src="https://github-readme-stats.vercel.app/api?username=Al3ncar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"  height="150em">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3ncar&layout=compact&langs_count=18&theme=github_dark"/>
-</div>
-<div align="center">
-
 </div>
 
 <div align="center">
@@ -31,8 +30,6 @@
 </div>
 
 ## 💻 Language and Frameworks:
-
-<div align="center">
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -62,18 +59,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-![Snake animation](https://github.com/Al3ncar/Al3ncar/blob/output/github-contribution-grid-snake.svg)
+## 📬 Bora trocar uma ideia?
 
-</div>
+- [LinkedIn](https://www.linkedin.com/in/igoralencar/)
+- [GitHub](https://github.com/Al3ncar)
 
-# 💫 About Me:
-
-- 🤖 i'm a front-end web developer<br> - 🧠 I’m learning Node.js, Python and TypeScript<br> - 💻 How to reach me: https://www.linkedin.com/in/igoralencar/<br> - 🙋🏻‍♂️ Pronouns: Ele/Dele.
-
-# 💻 Tech Stack:
-
-
-# 📊 GitHub Stats:
 
 
 
