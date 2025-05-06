@@ -11,8 +11,11 @@ Tenho cerca de 2 anos de experiência em tecnologia, sendo 1 ano e 4 meses focad
 
  - 🤖 Eu sou um Desenvolvedor Front-End
  - 🧠 Estou aprendendo Node.js, Python and TypeScript
- - 💻 <a href="https://www.linkedin.com/in/igoralencar/">LinkedIn</a>
-
+ - 🦾 Tecnologias Favoritas: JavaScript, TypeScript, React e Node.js
+ - ❤️‍🔥 hobbies: Voleibol, Videogames e livros
+ - 💻 <a href="https://www.linkedin.com/in/igoralencar/"> Alencar LinkedIn</a>
+ 
+<br>
 
 <div align="center">
   <a href="https://github.com/Al3ncar">
@@ -20,14 +23,20 @@ Tenho cerca de 2 anos de experiência em tecnologia, sendo 1 ano e 4 meses focad
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3ncar&layout=compact&langs_count=18&theme=github_dark"/>
 </div>
 
-<div align="center">
-    <img align="center" alt="Igor-html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-    <img align="center" alt="Igor-css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-    <img align="center" alt="Igor-js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="Igor-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img align="center" alt="Igor-gituhb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-    <img align="center" alt="Igor-gituhb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
+<p align="center">
+  <img alt="Igor-html5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+  <img alt="Igor-css3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img alt="Igor-gituhb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
+
 
 ## 💻 Language and Frameworks:
 
