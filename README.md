@@ -2,7 +2,7 @@
 
 ## 🌃 Objetivo
 
-Tenho cerca de 2 anos de experiência em tecnologia, sendo 1 ano e 4 meses focados em JavaScript e TypeScript com React, além de experiência em aplicações Vue. Busco grandes desafios no desenvolvimento para criar soluções inovadoras que facilitem a vida do cliente e da empresa.
+Tenho cerca de 2 anos de experiência em tecnologia, sendo 1 ano e 8 meses focados em JavaScript e TypeScript com React, além de experiência em aplicações Vue. Busco grandes desafios no desenvolvimento para criar soluções inovadoras que facilitem a vida do cliente e da empresa.
 
 
 ## 💼 Perfil
