@@ -1,22 +1,5 @@
-
- <h1  align="center"> <strong>IGOR ALENCAR</strong> </h1>
-
-
 <p align="center">
-</p>
-
-
-<p align="center">
-  <strong>Software Developer • Java Backend • Computer Science Student</strong>
-</p>
-
-<p align="center">
-  <strong>Java • Spring Boot • SQL • PostgreSQL • Docker • Python • Engenharia de Software</strong>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/igoralencar/">LinkedIn</a>
-  •
-  <a href="mailto:aelncar29htcss@gmail.com">Email</a>
+  <img src="./files/banner (2).png" alt="Igor Alencar Banner"/>
 </p>
 
 
@@ -41,6 +24,8 @@ Meu objetivo é evoluir como **Engenheiro de Software**, trabalhando na constru�
 * 💻 Experiência anterior com **React, TypeScript e Node.js**
 * 📚 Atualmente focado em evolução técnica e fundamentos de Engenharia de Software
 * 🏐 Hobbies: Voleibol, videogames e livros
+
+
 
 ## 💻 Stacks Principais
 
@@ -89,6 +74,33 @@ Meu objetivo é evoluir como **Engenheiro de Software**, trabalhando na constru�
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
+
+
+### 📊 Estatísticas
+
+<div align="center">
+
+<a href="https://github.com/Al3ncar">
+  <img width="35%" src="https://github-readme-stats-fast.vercel.app/api?username=Al3ncar&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Al3ncar">
+  <img width="27%"  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Al3ncar&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Al3ncar">
+  <img
+   width="37%"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Al3ncar&theme=tokyonight&hide_border=true"
+  />
+</a>
+<a href="https://github.com/Al3ncar">
+  <img
+   width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Al3ncar&theme=tokyo-night&hide_border=true&days=40"
+  />
+</a>
+
+
+</div>
 
 ## 🧠 Atualmente estudando
 
