@@ -27,6 +27,32 @@ Meu objetivo é evoluir como **Engenheiro de Software**, trabalhando na constru�
 
 
 
+### 📊 Estatísticas
+
+<div align="center">
+
+<a href="https://github.com/Al3ncar">
+  <img width="35%" src="https://github-readme-stats-fast.vercel.app/api?username=Al3ncar&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Al3ncar">
+  <img width="27%"  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Al3ncar&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Al3ncar">
+  <img
+   width="37%"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Al3ncar&theme=tokyonight&hide_border=true"
+  />
+</a>
+<a href="https://github.com/Al3ncar">
+  <img
+   width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Al3ncar&theme=tokyo-night&hide_border=true&days=40"
+  />
+</a>
+
+
+</div>
+
 ## 💻 Stacks Principais
 
 <p align="center">
@@ -76,31 +102,6 @@ Meu objetivo é evoluir como **Engenheiro de Software**, trabalhando na constru�
 
 
 
-### 📊 Estatísticas
-
-<div align="center">
-
-<a href="https://github.com/Al3ncar">
-  <img width="35%" src="https://github-readme-stats-fast.vercel.app/api?username=Al3ncar&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Al3ncar">
-  <img width="27%"  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Al3ncar&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Al3ncar">
-  <img
-   width="37%"
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Al3ncar&theme=tokyonight&hide_border=true"
-  />
-</a>
-<a href="https://github.com/Al3ncar">
-  <img
-   width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Al3ncar&theme=tokyo-night&hide_border=true&days=40"
-  />
-</a>
-
-
-</div>
 
 ## 🧠 Atualmente estudando
 
@@ -113,19 +114,32 @@ Meu objetivo é evoluir como **Engenheiro de Software**, trabalhando na constru�
 </p>
 
 
-
-
-
-
 ## 🚀 Projetos
 
-| Projeto             | Descrição                                                     | Tecnologias                  |
-| ------------------- | ------------------------------------------------------------- | ---------------------------- |
-| **RECONSTRÓI**      | Plataforma para apoio e assistência em situações de enchentes | React • TypeScript • Node.js |
-| **Colheita Direta** | Aplicação Web desenvolvida durante a graduação                | React • TypeScript           |
-| **Web Connect**     | Plataforma voltada para conexão e impacto social              | React • TypeScript           |
-| **Verde Ação**      | Landing Page focada em sustentabilidade                       | React • TypeScript           |
+| Projeto             | Descrição                                                                          | Tecnologias                  |
+| ------------------- | ---------------------------------------------------------------------------------- | ---------------------------- |
+| **RECONSTRÓI**      | Plataforma para apoio e assistência em situações de enchentes                       | React • TypeScript • Node.js |
+| **Colheita Direta** | Aplicação Web desenvolvida durante a graduação                                      | React • TypeScript           |
+| **Web Connect**     | Plataforma voltada para conexão e impacto social                                   | React • TypeScript           |
+| **Verde Ação**      | Landing Page focada em sustentabilidade                                             | React • TypeScript           |
 
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Al3ncar/Al3ncar/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Al3ncar/Al3ncar/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/Al3ncar/Al3ncar/output/pacman-contribution-graph.svg"
+    />
+  </picture>
+</p>
 
 ## 📚 Em evolução
 
