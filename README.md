@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./files/banner_2.png" alt="Igor Alencar Banner"/>
+  <img src="./files/mascote_github.png" alt="Igor Alencar Banner"/>
 </p>
 
 
