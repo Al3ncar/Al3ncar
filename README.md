@@ -44,13 +44,13 @@ Meu objetivo Ã© evoluir como **Engenheiro de Software**, trabalhando na construÃ
     src="https://github-readme-stats-fast.vercel.app/api/streak?username=Al3ncar&theme=tokyonight&hide_border=true"
   />
 </a>
-<a href="https://github.com/Al3ncar">
+<p align="center">
   <img
-   width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Al3ncar&theme=tokyo-night&hide_border=true&days=40"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Al3ncar&theme=tokyonight"
+    width="100%"
+    alt="GitHub Profile Summary"
   />
-</a>
-
+</p>
 
 </div>
 
