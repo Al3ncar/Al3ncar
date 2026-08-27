@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="./files/mascote_github.png" alt="Igor Alencar Banner"/>
+  <img src="https://github.com/Al3ncar/Al3ncar/blob/main/files/mascote_github.png" alt="Igor Alencar Banner"/>
 </p>
 
 
