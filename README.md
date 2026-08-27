@@ -182,8 +182,9 @@ Engenharia de Software
   </a>
 </p>
 
+
 <p align="center">
-  <img src="./files/banner-github.gif" alt="Igor Alencar Banner"/>
+  <img src="https://github.com/Al3ncar/Al3ncar/blob/main/files/banner-github.gif" alt="Igor Alencar Banner"/>
 </p>
 
 <p align="center">
